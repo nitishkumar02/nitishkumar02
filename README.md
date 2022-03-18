@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi 👋,I'm Nitish Kumar
 
-<!--
-**nitishkumar02/nitishkumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **|DevOps | DSA | JAVA|**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **DevOps and DSA**
+- 👯 I’m looking to collaborate on **Backend Tech Stack** 
+- 🎨 I have sound working knowledge of **Java and Backend Dev**
+- 📫 My Email **nkgupta3541@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: *I love to **talk and connect with people***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitishkumar02&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumar02&theme=tokyonight" />
+</p>
